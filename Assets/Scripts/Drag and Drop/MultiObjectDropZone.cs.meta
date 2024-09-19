@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d574cd05fc1518b42abb84b56f378bba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rectTransform: {instanceID: 0}
+  - eventPointerEnter: {fileID: 11400000, guid: 54df36971b69cdd48b168d4920d01ea5,
+      type: 2}
+  - eventPointerExit: {fileID: 11400000, guid: e119db4312b989245a715313af9eeed9, type: 2}
+  - dropZoneObjectsSO: {instanceID: 0}
+  - droppedImageSOEvent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
